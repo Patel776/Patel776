@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amarjeet Patel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning R and Python.
-- 💞️ I’m looking to collaborate on some real life projects related to Data Science
+- 👀 I’m interested in Coding, Exploring, Learning & Applying.
+- 🌱 I’m currently learning Tableau and Analytics.
+- 💞️ I’m looking to collaborate on some real life projects related to Data Science and Web Development.
 - 📫 How to reach me ...patelamarjeet570@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I can make you Laugh
